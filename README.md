@@ -18,7 +18,7 @@ Works for **any subject** (physics, cosmology, chemistry, maths, economics, biol
 ## Install
 
 ### Claude.ai (web / desktop / mobile)
-1. Download `exam-mastery.skill` from the [latest release](../../releases/latest).
+1. Download [`exam-mastery.skill`](https://github.com/Benhammou01/exam-mastery/raw/main/exam-mastery.skill) (click the link, the file downloads directly).
 2. Open it in Claude and click **Save skill** (or go to Settings → Capabilities → Skills → Upload skill).
 3. Make sure skills / code execution are enabled in your settings.
 
