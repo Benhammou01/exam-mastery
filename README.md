@@ -24,7 +24,7 @@ Works for **any subject** (physics, cosmology, chemistry, maths, economics, biol
 
 ### Claude Code
 ```bash
-git clone https://github.com/<your-username>/exam-mastery.git
+git clone https://github.com/Benhammou01/exam-mastery.git
 cp -r exam-mastery/skills/exam-mastery ~/.claude/skills/
 ```
 
